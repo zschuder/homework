@@ -1,0 +1,19 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	You can use cd to change directory, mkdir to make a directory, mv to move a file from one directory to another, ls to show you all the files in
+	a directory, rm to delete a file, clear to clear your terminal screen, and ssh to access another user's files. For my Windows computer,
+	I use Powershell. With Git installed, I am able to use Bash.
+
+2. Do you have pets? What kind?
+	I have two cats.
+
+3. If you run across an error, what would your first course of action be?
+	I would look back through my steps and try the problem out again. Worst case, I would consult my notes or recordings.
+
+4. Funniest thing that happened to you in high school.
+	We drove down to Laguna Beach for a long weekend, and at some point we left someone behind and didn't realize until 30 minutes later... It was pretty
+	bad, but funny at the same time.
+
+5. What is a python script? (Keep it simple)
+	It is a plain text file and uses .py. It is a bunch of commands that perform actions. It is high level and interpretive.
+
+
